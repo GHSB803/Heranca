@@ -21,5 +21,4 @@ export abstract class Empregado {
         return this.cpf
     }
     public abstract vencimento(): number;
-
 }
